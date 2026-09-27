@@ -1,0 +1,8 @@
+{
+  "selected_model": "transfer",
+  "selection_metric": "validation_roc_auc",
+  "validation_roc_auc": 0.7810796553543169,
+  "threshold": 0.44819092750549316,
+  "source_model": "transfer.keras",
+  "note": "Model selected without using test-set performance."
+}

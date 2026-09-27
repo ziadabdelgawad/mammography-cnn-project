@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+
+# Large/generated project data
+data/cbis_ddsm_prepared/
+models/*.keras
+models/*.h5
+artifacts/*
+!artifacts/.gitkeep
+!models/.gitkeep
+!data/.gitkeep
